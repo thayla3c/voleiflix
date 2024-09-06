@@ -1,0 +1,21 @@
+body{
+  color:black;
+  backgrond: chartreuse;
+      margin: Opx;
+}
+
+  header  {
+    border-bottom:solid 3px hotpink;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+  }
+
+section{
+  background: green;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex
+  justify-content:center
+}
+
